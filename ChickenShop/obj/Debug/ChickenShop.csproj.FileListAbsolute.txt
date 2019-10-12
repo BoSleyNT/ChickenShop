@@ -1,0 +1,147 @@
+E:\ChickenShop\ChickenShop\obj\Debug\ChickenShop.csprojAssemblyReference.cache
+E:\ChickenShop\ChickenShop\bin\ChickenShop.dll.config
+E:\ChickenShop\ChickenShop\bin\ChickenShop.dll
+E:\ChickenShop\ChickenShop\bin\ChickenShop.pdb
+E:\ChickenShop\ChickenShop\bin\roslyn\csc.exe
+E:\ChickenShop\ChickenShop\bin\roslyn\csc.exe.config
+E:\ChickenShop\ChickenShop\bin\roslyn\csc.rsp
+E:\ChickenShop\ChickenShop\bin\roslyn\csi.exe
+E:\ChickenShop\ChickenShop\bin\roslyn\csi.exe.config
+E:\ChickenShop\ChickenShop\bin\roslyn\csi.rsp
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ChickenShop\ChickenShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ChickenShop\ChickenShop\bin\roslyn\System.AppContext.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Collections.Immutable.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Console.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.IO.Compression.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.IO.FileSystem.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.IO.Pipes.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Security.AccessControl.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Security.Claims.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.ValueTuple.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Xml.XPath.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ChickenShop\ChickenShop\bin\roslyn\vbc.exe
+E:\ChickenShop\ChickenShop\bin\roslyn\vbc.exe.config
+E:\ChickenShop\ChickenShop\bin\roslyn\vbc.rsp
+E:\ChickenShop\ChickenShop\bin\roslyn\VBCSCompiler.exe
+E:\ChickenShop\ChickenShop\bin\roslyn\VBCSCompiler.exe.config
+E:\ChickenShop\ChickenShop\bin\Antlr3.Runtime.dll
+E:\ChickenShop\ChickenShop\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ChickenShop\ChickenShop\bin\AspNet.ScriptManager.jQuery.dll
+E:\ChickenShop\ChickenShop\bin\EntityFramework.dll
+E:\ChickenShop\ChickenShop\bin\EntityFramework.SqlServer.dll
+E:\ChickenShop\ChickenShop\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ChickenShop\ChickenShop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ChickenShop\ChickenShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ChickenShop\ChickenShop\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ChickenShop\ChickenShop\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ChickenShop\ChickenShop\bin\Microsoft.Web.Infrastructure.dll
+E:\ChickenShop\ChickenShop\bin\Newtonsoft.Json.dll
+E:\ChickenShop\ChickenShop\bin\System.Web.Optimization.dll
+E:\ChickenShop\ChickenShop\bin\WebGrease.dll
+E:\ChickenShop\ChickenShop\bin\EntityFramework.xml
+E:\ChickenShop\ChickenShop\bin\EntityFramework.SqlServer.xml
+E:\ChickenShop\ChickenShop\bin\System.Web.Optimization.xml
+E:\ChickenShop\ChickenShop\bin\Newtonsoft.Json.xml
+E:\ChickenShop\ChickenShop\bin\Antlr3.Runtime.pdb
+E:\ChickenShop\ChickenShop\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ChickenShop\ChickenShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ChickenShop\ChickenShop\obj\Debug\ChickenShop.csproj.CopyComplete
+E:\ChickenShop\ChickenShop\obj\Debug\ChickenShop.dll
+E:\ChickenShop\ChickenShop\obj\Debug\ChickenShop.pdb
+D:\New folder\ChickenShop\ChickenShop\bin\ChickenShop.dll.config
+D:\New folder\ChickenShop\ChickenShop\bin\ChickenShop.dll
+D:\New folder\ChickenShop\ChickenShop\bin\ChickenShop.pdb
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\csc.exe
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\csc.exe.config
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\csc.rsp
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\csi.exe
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\csi.exe.config
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\csi.rsp
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.AppContext.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Console.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.IO.Compression.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.IO.FileSystem.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.IO.Pipes.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Security.AccessControl.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Security.Claims.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.ValueTuple.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Xml.XPath.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\vbc.exe
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\vbc.exe.config
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\vbc.rsp
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\VBCSCompiler.exe
+D:\New folder\ChickenShop\ChickenShop\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\ChickenShop\ChickenShop\bin\Antlr3.Runtime.dll
+D:\New folder\ChickenShop\ChickenShop\bin\AspNet.ScriptManager.bootstrap.dll
+D:\New folder\ChickenShop\ChickenShop\bin\AspNet.ScriptManager.jQuery.dll
+D:\New folder\ChickenShop\ChickenShop\bin\EntityFramework.dll
+D:\New folder\ChickenShop\ChickenShop\bin\EntityFramework.SqlServer.dll
+D:\New folder\ChickenShop\ChickenShop\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\New folder\ChickenShop\ChickenShop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\New folder\ChickenShop\ChickenShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\ChickenShop\ChickenShop\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\New folder\ChickenShop\ChickenShop\bin\Microsoft.ScriptManager.WebForms.dll
+D:\New folder\ChickenShop\ChickenShop\bin\Microsoft.Web.Infrastructure.dll
+D:\New folder\ChickenShop\ChickenShop\bin\Newtonsoft.Json.dll
+D:\New folder\ChickenShop\ChickenShop\bin\System.Web.Optimization.dll
+D:\New folder\ChickenShop\ChickenShop\bin\WebGrease.dll
+D:\New folder\ChickenShop\ChickenShop\bin\EntityFramework.xml
+D:\New folder\ChickenShop\ChickenShop\bin\EntityFramework.SqlServer.xml
+D:\New folder\ChickenShop\ChickenShop\bin\System.Web.Optimization.xml
+D:\New folder\ChickenShop\ChickenShop\bin\Newtonsoft.Json.xml
+D:\New folder\ChickenShop\ChickenShop\bin\Antlr3.Runtime.pdb
+D:\New folder\ChickenShop\ChickenShop\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\New folder\ChickenShop\ChickenShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\ChickenShop\ChickenShop\obj\Debug\ChickenShop.csprojResolveAssemblyReference.cache
+D:\New folder\ChickenShop\ChickenShop\obj\Debug\ChickenShop.dll
+D:\New folder\ChickenShop\ChickenShop\obj\Debug\ChickenShop.pdb
