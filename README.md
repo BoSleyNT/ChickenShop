@@ -1,14 +1,14 @@
 # ChickenShop
 <h1> * Cơ sở dữ liệu ! </h1> </br>
 BẢNG GÀ :
-<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/72176787_2357977367787149_7491372177766219776_n.png?_nc_cat=107&amp;_nc_oc=AQkMzTGHDWcS8yFgynnumMUzwO4YzIoSxy0vTNT8nF-qVBJPspQo9NsJlKqTJ3mfuQo&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=5aff2319a215d847f5041982f4cb78b8&amp;oe=5E62656F" alt="" class="img" style="width: 689px; height: 261px;">
+<img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/72303272_1356765544504216_7502252871820247040_n.png?_nc_cat=103&amp;_nc_oc=AQk9iduuYQQfHFbcq1f_UTqdkuRdvKAGt9qvO_kBpS5sdPzHMwJRq_nh8pryCfNRhZ0&amp;_nc_ht=scontent.fdad1-1.fna&amp;oh=d8e628baf711695d821a438408bf2ea0&amp;oe=5E38215D" alt="" class="img" style="width: 529px; height: 227px;">
 
 BẢNG GIỐNG GÀ : 
 <img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/72662901_427783537877448_7303920705249214464_n.png?_nc_cat=103&amp;_nc_oc=AQl3oWBDdqcF6_4_P-v3uuDtvzGhjqHTZ0mSUE9ZkYvd-LXV0JJzbEJHF40nQM6640I&amp;_nc_ht=scontent.fdad1-1.fna&amp;oh=926a4aa8ad351c4cd903e5356d418599&amp;oe=5E2BF384" alt="" class="img" style="width: 449px; height: 141px;">
 
 <h1> * Dữ liệu cả các bảng ! </h1> </br>
 BẢNG GÀ : 
-<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/72453952_441195356746217_3469144195644522496_n.png?_nc_cat=110&amp;_nc_oc=AQnjEOR_x5o5_EahaxKl2rO0dFF5__z-JSLBKfY8YqtLlQ9kuYyxMXJjmdcyC2rRVqU&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=49204bebf697c788c150f3e85533b12a&amp;oe=5E215621" alt="" class="img" style="width: 660px; height: 234px;">
+<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/72176787_2357977367787149_7491372177766219776_n.png?_nc_cat=107&amp;_nc_oc=AQkMzTGHDWcS8yFgynnumMUzwO4YzIoSxy0vTNT8nF-qVBJPspQo9NsJlKqTJ3mfuQo&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=5aff2319a215d847f5041982f4cb78b8&amp;oe=5E62656F" alt="" class="img" style="width: 689px; height: 261px;">
 
 BẢNG GIỐNG GÀ :
 <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/73497987_406122653647271_1701068758753214464_n.png?_nc_cat=108&amp;_nc_oc=AQlZsmqYs9Nzu4bt4gKHw1-9em6f02ZQgkHMOMxPbduNg1kFa9NEHCfMwnTA0ex1qsI&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=f4f2ad27b05fb6e3c62f9fdcec55ffac&amp;oe=5E333018" alt="" class="img" style="width: 423px; height: 155px;">
