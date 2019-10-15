@@ -1,4 +1,19 @@
 # ChickenShop
+<h1> * Cơ sở dữ liệu ! </h1> </br>
+BẢNG GÀ :
+<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/71954872_2982353188655641_1325125611294818304_n.png?_nc_cat=101&amp;_nc_oc=AQm9zax5oOhaG0g4Z8_0BKfykXj0iDBo-iGjMTYsb96HZLlbYyRw7SbsZ3gslk4LGNA&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=5e553dc5d275334aeefbf5c6c8f34f59&amp;oe=5E19F63D" alt="" class="img" style="width: 663px; height: 214px;">
+
+BẢNG GIỐNG GÀ : 
+<img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/72662901_427783537877448_7303920705249214464_n.png?_nc_cat=103&amp;_nc_oc=AQl3oWBDdqcF6_4_P-v3uuDtvzGhjqHTZ0mSUE9ZkYvd-LXV0JJzbEJHF40nQM6640I&amp;_nc_ht=scontent.fdad1-1.fna&amp;oh=926a4aa8ad351c4cd903e5356d418599&amp;oe=5E2BF384" alt="" class="img" style="width: 449px; height: 141px;">
+
+<h1> * Dữ liệu cả các bảng ! </h1> </br>
+BẢNG GÀ : 
+<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/72453952_441195356746217_3469144195644522496_n.png?_nc_cat=110&amp;_nc_oc=AQnjEOR_x5o5_EahaxKl2rO0dFF5__z-JSLBKfY8YqtLlQ9kuYyxMXJjmdcyC2rRVqU&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=49204bebf697c788c150f3e85533b12a&amp;oe=5E215621" alt="" class="img" style="width: 660px; height: 234px;">
+
+BẢNG GIỐNG GÀ :
+<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/73497987_406122653647271_1701068758753214464_n.png?_nc_cat=108&amp;_nc_oc=AQlZsmqYs9Nzu4bt4gKHw1-9em6f02ZQgkHMOMxPbduNg1kFa9NEHCfMwnTA0ex1qsI&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=f4f2ad27b05fb6e3c62f9fdcec55ffac&amp;oe=5E333018" alt="" class="img" style="width: 423px; height: 155px;">
+
+
 
 <h1> * Giao diện trang chủ. </h1> </br>
 <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/71030081_404984696885792_7015022448798072832_n.png?_nc_cat=107&amp;_nc_oc=AQmBFnDNVAe2tFOvLgfXhkCWNOqO5kAHGN8EAbSqCgcjaf8vKR1SVBZYCm3OTQKxerk&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=58af8e5689d0ff05e144e39dc4724b0f&amp;oe=5DF95839" alt="" class="img" style="width: 1004px; height: 543px;">
