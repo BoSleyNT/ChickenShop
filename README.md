@@ -13,6 +13,8 @@ BẢNG GÀ :
 BẢNG GIỐNG GÀ :
 <img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/73497987_406122653647271_1701068758753214464_n.png?_nc_cat=108&amp;_nc_oc=AQlZsmqYs9Nzu4bt4gKHw1-9em6f02ZQgkHMOMxPbduNg1kFa9NEHCfMwnTA0ex1qsI&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=f4f2ad27b05fb6e3c62f9fdcec55ffac&amp;oe=5E333018" alt="" class="img" style="width: 423px; height: 155px;">
 
+<h1> * Liên kết bảng ! </h1> </br>
+<img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/72368083_2414938238628406_8592634468571807744_n.png?_nc_cat=102&amp;_nc_oc=AQmaaPwC996fOxiIPvHtZ1GfaKkCfpoVQRsPDqAkHve9328GG1lUQP7aGHrl5zl97W8&amp;_nc_ht=scontent.fdad1-1.fna&amp;oh=46b77c8885d9b1e361df3f1fa10452f5&amp;oe=5E2989D5" alt="" class="img" style="width: 643px; height: 310px;">
 
 
 <h1> * Giao diện trang chủ. </h1> </br>
