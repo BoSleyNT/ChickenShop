@@ -1,7 +1,7 @@
 # ChickenShop
 <h1> * Cơ sở dữ liệu ! </h1> </br>
 BẢNG GÀ :
-<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/71954872_2982353188655641_1325125611294818304_n.png?_nc_cat=101&amp;_nc_oc=AQm9zax5oOhaG0g4Z8_0BKfykXj0iDBo-iGjMTYsb96HZLlbYyRw7SbsZ3gslk4LGNA&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=5e553dc5d275334aeefbf5c6c8f34f59&amp;oe=5E19F63D" alt="" class="img" style="width: 663px; height: 214px;">
+<img src="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/72176787_2357977367787149_7491372177766219776_n.png?_nc_cat=107&amp;_nc_oc=AQkMzTGHDWcS8yFgynnumMUzwO4YzIoSxy0vTNT8nF-qVBJPspQo9NsJlKqTJ3mfuQo&amp;_nc_ht=scontent.fdad2-1.fna&amp;oh=5aff2319a215d847f5041982f4cb78b8&amp;oe=5E62656F" alt="" class="img" style="width: 689px; height: 261px;">
 
 BẢNG GIỐNG GÀ : 
 <img src="https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/72662901_427783537877448_7303920705249214464_n.png?_nc_cat=103&amp;_nc_oc=AQl3oWBDdqcF6_4_P-v3uuDtvzGhjqHTZ0mSUE9ZkYvd-LXV0JJzbEJHF40nQM6640I&amp;_nc_ht=scontent.fdad1-1.fna&amp;oh=926a4aa8ad351c4cd903e5356d418599&amp;oe=5E2BF384" alt="" class="img" style="width: 449px; height: 141px;">
